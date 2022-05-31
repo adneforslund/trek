@@ -85,8 +85,8 @@ export default function Home() {
               term useful to describe the design of business processes as well
               as manufacturing processes.
             </p>
-            <Footer />
           </div>
+          <Footer />
         </div>
       </div>
     </>
