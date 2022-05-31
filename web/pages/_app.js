@@ -1,4 +1,4 @@
-import "LCARS/lcars/css/lcars.devel.css";
+import "../styles/lcars-classic.min.css";
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
