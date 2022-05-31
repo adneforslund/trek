@@ -10,7 +10,7 @@
 :root {
   font-size: 1.35rem;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   :root {
     font-size: 1.2rem;
   }
@@ -182,7 +182,7 @@ a {
   color: #f70;
   text-decoration: none;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   .banner {
     padding: 5px 0 10px 3px;
     font-size: 1.2rem;
@@ -405,7 +405,7 @@ a {
   outline: none;
   animation: none;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   .button a {
     height: 44px;
     padding-top: 10px;
@@ -714,7 +714,7 @@ a:hover {
   top: 13px;
   left: 0;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   .lcars-list {
     margin-left: 0;
     padding-left: 0;
@@ -790,7 +790,7 @@ a:hover {
   filter: brightness(80%);
   outline: none;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   .sidebar-buttons a {
     text-align: center;
     padding: 10px 0;
@@ -875,7 +875,7 @@ a:hover {
   right: 0;
   overflow: hidden;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   .lcars-text-bar {
     border-radius: 10px;
     height: 24px;
@@ -1477,7 +1477,7 @@ footer::after {
 .footer-text > * {
   margin: 0;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   footer::before {
     left: 40%;
   }
@@ -1637,7 +1637,7 @@ footer::after {
     width: 25px;
   }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   body {
     padding: 0;
   }
