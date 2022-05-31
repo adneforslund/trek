@@ -58,7 +58,7 @@ export default function Home() {
           <div className="content">
             <h1>Hello</h1>
 
-            <h2>Welcome to LCARS &#149; classNameic Theme</h2>
+            <h2>Welcome to LCARS</h2>
 
             <p>
               Some methods for creating work, such as employing intuition, are

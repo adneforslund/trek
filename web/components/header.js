@@ -9,7 +9,7 @@ const Header = () => (
       </div>
     </div>
     <div className="right-frame-top">
-      <div className="banner">LCARS &#149; Online</div>
+      <div className="banner">All systems online</div>
       <div className="data-cascade-button-group">
         <div className="cascade-wrapper">
           <div className="data-cascade">
