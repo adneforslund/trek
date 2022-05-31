@@ -182,7 +182,7 @@ a {
   color: #f70;
   text-decoration: none;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .banner {
     padding: 5px 0 10px 3px;
     font-size: 1.2rem;
@@ -405,7 +405,7 @@ a {
   outline: none;
   animation: none;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .button a {
     height: 44px;
     padding-top: 10px;
@@ -790,7 +790,7 @@ a:hover {
   filter: brightness(80%);
   outline: none;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .sidebar-buttons a {
     text-align: center;
     padding: 10px 0;
@@ -1637,7 +1637,7 @@ footer::after {
     width: 25px;
   }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   body {
     padding: 0;
   }
